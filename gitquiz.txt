@@ -1,3 +1,7 @@
+Clone your repository
+create a file by entering cd <user name>
+type: gedit <file name> to create a file or edit a file
+When your done with making changes to the file click "save"
 3 STEPS TO BE ABLE TO LEAVE CLASS
 git "add" makes file noticable/ git add <file name>
 commit makes snapshot/ git commit -m "Commit Comment"
