@@ -1,0 +1,4 @@
+3 STEPS TO BE ABLE TO LEAVE CLASS
+git "add" makes file noticable/ git add <file name>
+commit makes snapshot/ git commit -m "Commit Comment"
+push-uploads to gedit
