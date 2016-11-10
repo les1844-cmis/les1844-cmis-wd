@@ -10,3 +10,18 @@ git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-t
 git "add" makes file noticable/ git add <file name>
 commit makes snapshot/ git commit -m "Commit Comment"
 push-uploads to gedit
+Format of html:
+Head
+Title
+Body
+h = heading
+p = paragraph
+Opening tag <>
+closing tag </>
+Common tags for creating webpag:
+header
+nav
+main
+footer
+h1 - h6
+p
