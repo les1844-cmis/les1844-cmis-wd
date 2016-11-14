@@ -25,4 +25,33 @@ main
 footer
 h1 - h6
 p
+CheatSheet 4 html
+0000000000000000000000000000000000000000000000000000000000
+<!doctype html>
+<html>
+	<head>
+		<title>
+			Tab name
+		</title>
+		<meta charset="utf-8"/>
+		<!--
+			requirments
 
+-->
+	</head>
+	<body>
+		<h1>
+			Title
+		</h1>
+		<h2>
+			
+		</h2>
+		<p> 
+			Paragraph
+		</p> 
+		<p>
+			
+		</p>	
+	</body>
+</html>
+0000000000000000000000000000000000000000000000000000000000
