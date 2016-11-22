@@ -1,0 +1,25 @@
+body{
+	background-color: #99ccff;
+	border-style:ridge;
+	border-color: #ff0066
+}
+
+h1{ 
+
+	color:#00cc99;
+	font-size: 30px;
+	text-align: center;
+}
+
+p{
+	font-family:verdana;
+	font-size: 20px;
+	border:solid 10px #ffff66;
+	
+}
+h2{ 
+	color: #66ff33;
+	font-size: 25px;
+	text-align: left;
+}
+
