@@ -1,1 +1,35 @@
 Body{ 
+	background-color: #ffffff;
+}
+
+h1{
+	color:yellow;
+	background-color: green;
+	border-bottom: 5px dashed;
+	
+}
+
+p{ 
+	color: blue;
+	background-color: red;
+	background-repeat: no-repeat;
+	border-bottom: 10px dashed yellow;
+}
+
+h2{
+	color: yellow;
+	background: purple;
+}
+
+h3{
+	color: purple;
+	background: yellow;
+	border-top: 2px dashed purple;
+}
+footer{
+	border-left: red;
+}
+
+
+
+
