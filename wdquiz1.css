@@ -1,10 +1,38 @@
-h1{ 
-	color: red;
-	font-size: 50px;
-{
-p{
-	
+
+body {
+	border-left: red dotted 30px;
 }
-h2, h3 {
+
+header{ 
+	color: red;
+	font-size: 25px;
+	background-color: lightblue;
+	text-decoration: underline;
+	border-bottom: red dotted 30px
+}
+h1 {
+	font-family: serif;
+	font-size: 500%
+	color: red;
+	border-bottom: solid 5px black;
+}
+p{
+	color: blue;
+	border-decoration: underline blue;
+	border-top: dotted 2px green;
+}
+h2, h3{
 	background: blue;
+	color: white; 
+}
+footer {
+	border-right: 500px solid black;
+	color: 
+}
+html{
+	font-size: 12px;
+	background-color: pink;
+}
+main{	
+	border:groove 5px yellow;
 }
