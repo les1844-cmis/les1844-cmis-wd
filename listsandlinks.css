@@ -1,16 +1,16 @@
 html{
-	
+	background-color: lightgreen;
 }
-head{
-	
+h1{
+	border-bottom: dotted red;
 }
 body{
-	
+	color: blue;
 }
 heater{
 	
 }
-nav{
+nav {
 	
 }
 main{
@@ -20,6 +20,9 @@ h2
 
 }
 p{
-
+	
+}
+footer{
+ color:red;
 }
 
