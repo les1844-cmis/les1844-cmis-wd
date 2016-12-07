@@ -1,23 +1,34 @@
 html{
 	background-color: lightgreen;
+	border: solid 30px purple;
 }
 h1{
 	border-bottom: dotted red;
+	background: green;
+	color:red;
+	padding: 13px;
+	top:12px;
 }
+header{
+	font-size: 15px;
+	background:yellow;
+}
+
 body{
 	color: blue;
 }
-heater{
-	
-}
 nav {
-	
+	background: darkorange;
 }
-main{
-	
+main ol{
+	color:lightorange;
 }
-h2
+main p{
+	background: black;
+}
 
+h2
+	background: green;
 }
 p{
 	
