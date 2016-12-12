@@ -1,16 +1,23 @@
 html {
-	background-color: lightblue;
+	background-color: lightgreen;
 	color: blue;
 	border-left-style:ridge;
-	border-color: red;
+	border-color: lightgreen;
 	border-width: 20px;
 }
-h1{
-	color: darkgreen;
-}
-h2{
+h1, h2{
 	color: darkgreen;
 }
 h3{
-	color: 
+	color: red;
+	padding: 16px
+	margin: 20px
+	
+	
+}
+main p{
+	color: ;
+}
+p{
+	font-family: "serif";
 }
