@@ -16,8 +16,12 @@ h3{
 	
 }
 main p{
-	color: ;
+	color: darkviolet;
 }
 p{
 	font-family: "serif";
+}
+img{
+	opacity: 1.0;
+	filter: alpha(opacity=100);
 }

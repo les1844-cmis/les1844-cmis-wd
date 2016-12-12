@@ -25,6 +25,14 @@ main
 footer
 h1 - h6
 p
+------------------------
+sftp username@cmis-hsteacher (sftp yindii2261@cmis-hsteacher) 
+
+to add: 
+ls 
+cd public_html
+put (instert file name)
+------------------------
 CheatSheet 4 html
 0000000000000000000000000000000000000000000000000000000000
 <!doctype html>
